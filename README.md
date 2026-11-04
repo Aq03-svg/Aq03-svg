@@ -1,117 +1,142 @@
 <div align="center">
 
-A Q E E B   J A V E E D   S H A I K H
+# AQEEB JAVEED SHAIKH
 
-Artificial Intelligence · Machine Learning · Data Science
+### AI / ML · Applied Intelligence · Data
 
-Building intelligent systems. Exploring ideas. Engineering practical solutions.
+I’m interested in the point where intelligent systems meet real-world problems — from visual perception and edge devices to trustworthy language models and data products.
 
-<br>
+<br/>
 
-GitHub   /   LinkedIn   /   Email
+[GitHub](https://github.com/Aq03-svg) · LinkedIn · Email
 
 </div>
 
-⸻
+---
 
-01 — Profile
+## A little about my work
 
-I am an Artificial Intelligence and Machine Learning undergraduate interested in developing intelligent systems that address practical problems.
+I'm an AI & Machine Learning undergraduate who enjoys building beyond notebooks.
 
-My work spans machine learning, computer vision, data analytics, and generative AI. I enjoy understanding problems from the ground up — from data preparation and model development to implementation and evaluation.
+My projects move between **computer vision, machine learning, data engineering, and applied AI**. I care about the full path: understanding the problem, preparing the data, choosing a sensible approach, testing the result, and making the work reproducible.
 
-Currently exploring the intersection of applied machine learning, trustworthy AI, and efficient intelligent systems.
+Currently interested in **efficient ML systems, model reliability, and practical data-driven applications**.
 
-⸻
+---
 
-02 — Selected Projects
+## Selected Work
 
-01. TinyML-Enabled Structural Health Monitoring
+<table>
+<tr>
+<td width="50%" valign="top">
 
-EDGE AI   TINYML   ANOMALY DETECTION
+### 01 — Structural Health Monitoring
 
-Exploring the use of lightweight machine learning models for real-time structural anomaly detection in smart infrastructure.
+**TinyML · Edge AI · Anomaly Detection**
 
-⸻
+A smart-infrastructure project exploring how compact ML models can identify unusual structural behaviour close to where sensor data is generated.
 
-02. LLM Hallucination Detection & Fact Verification
+`TinyML` `Python` `Machine Learning`
 
-GENERATIVE AI   NLP   FACT VERIFICATION
+</td>
+<td width="50%" valign="top">
 
-A software-based approach to identifying unsupported claims in LLM-generated responses and evaluating their consistency against supporting evidence.
+### 02 — LLM Hallucination Detection
 
-⸻
+**Generative AI · NLP · Verification**
 
-03. Mutual Fund Analytics
+A software project investigating how claims in LLM-generated answers can be checked against supporting evidence.
 
-DATA ANALYTICS   PYTHON   SQL
+`Python` `NLP` `LLMs`
 
-An end-to-end data analytics workflow involving mutual fund NAV ingestion, data cleaning, structured storage, and financial performance analysis.
+</td>
+</tr>
 
-View Repository ↗
+<tr>
+<td width="50%" valign="top">
 
-⸻
+### 03 — Mutual Fund Analytics
 
-04. The Invisibility Cloak
+**Data Engineering · Financial Analytics**
 
-COMPUTER VISION   IMAGE PROCESSING   DEEP LEARNING
+An analytics workflow for mutual-fund data: ingesting NAV and transaction records, cleaning datasets, storing structured data in SQLite, and analysing fund performance.
 
-A computer vision application implementing an invisibility-cloak effect through colour-based segmentation and a deep-learning-oriented segmentation approach.
+[Repository](https://github.com/Aq03-svg/MUTUAL-FUND-ANALYTICS)
 
-View Repository ↗
+`Python` `Pandas` `SQL` `SQLite`
 
-⸻
+</td>
+<td width="50%" valign="top">
 
-05. Iris Classification
+### 04 — The Invisibility Cloak
 
-MACHINE LEARNING   CLASSIFICATION   SCIKIT-LEARN
+**Computer Vision · Image Processing**
 
-A classical machine learning project exploring feature preparation, supervised classification, model training, and evaluation.
+A computer-vision application recreating the invisibility-cloak effect through colour-based masking, with a second segmentation-oriented approach.
 
-View Repository ↗
+[Repository](https://github.com/Aq03-svg/THE_INVISIBILITY_CLOAK)
 
-⸻
+`Python` `OpenCV` `MediaPipe` `TensorFlow Lite`
 
-03 — Technical Stack
+</td>
+</tr>
 
-Domain	Technologies
-Programming	Python, C, C++, SQL
-Machine Learning	Scikit-learn, TensorFlow
-Computer Vision	OpenCV, MediaPipe
-Data Science	Pandas, NumPy
-Development	Flask, Django
-Databases	SQLite
-Infrastructure	Git, Docker, Hadoop
+<tr>
+<td width="50%" valign="top">
 
-⸻
+### 05 — Iris Classification
 
-04 — Research Interests
+**Classical Machine Learning**
 
-* Applied Machine Learning
-* Deep Learning & Computer Vision
-* TinyML and Edge Intelligence
-* Generative AI and LLM Reliability
-* Statistical Learning & Data Science
+A classification project covering feature preparation, model training, and evaluation using the Iris dataset.
 
-⸻
+[Repository](https://github.com/Aq03-svg/iris-classification)
 
-05 — Beyond the Code
+`Python` `scikit-learn` `Classification`
 
-I value continuous learning, experimentation, and collaboration.
+</td>
+</tr>
+</table>
 
-Interested in research opportunities, AI/ML internships, and projects that translate technical ideas into meaningful applications.
+---
 
-⸻
+## Tools I Reach For
 
-06 — Connect
+**Languages**
 
-Open to conversations, collaborations, and opportunities.
+`Python` · `C` · `C++` · `SQL`
 
-GitHub   /   LinkedIn   /   Email
+**Machine Learning & Data**
 
-<br>
+`scikit-learn` · `TensorFlow` · `OpenCV` · `Pandas` · `NumPy`
+
+**Development & Infrastructure**
+
+`Git` · `Docker` · `SQLite` · `Hadoop` · `Flask` · `Django`
+
+---
+
+## Current Direction
+
+- Strengthening my foundations in machine learning and statistical thinking.
+- Exploring trustworthy Generative AI and hallucination evaluation.
+- Learning how ML systems behave under practical constraints.
+- Improving software engineering, testing, and reproducibility.
+
+---
+
+## Find Me
+
+Interested in applied AI/ML, computer vision, data science, or research collaborations.
+
+- GitHub: [@Aq03-svg](https://github.com/Aq03-svg)
+- LinkedIn: Add your profile
+- Email: Add your professional email
+
+---
+
 <div align="center">
 
-Curiosity drives the question. Engineering builds the answer.
+*Built around curiosity, careful experimentation, and useful outcomes.*
 
 </div>
