@@ -8,7 +8,7 @@ I’m interested in the point where intelligent systems meet real-world problems
 
 <br/>
 
-[GitHub](https://github.com/Aq03-svg) · LinkedIn · Email
+[GitHub](https://github.com/Aq03-svg) · [LinkedIn](www.linkedin.com/in/aqeeb-javeed329) · [Email](aqeebshaikh329@gmail.com)
 
 </div>
 
@@ -130,8 +130,8 @@ A classification project covering feature preparation, model training, and evalu
 Interested in applied AI/ML, computer vision, data science, or research collaborations.
 
 - GitHub: [@Aq03-svg](https://github.com/Aq03-svg)
-- LinkedIn: Add your profile
-- Email: Add your professional email
+- LinkedIn: www.linkedin.com/in/aqeeb-javeed329
+- Email: aqeebshaikh329@gmail.com
 
 ---
 
